@@ -4,7 +4,7 @@
 Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's degree in Artificial Intelligence and a background in Telecommunications Engineering. I'm currently seeking new opportunities in the fields of data science, data engineering, and artificial intelligence.
 
 #
-<p align="center"> ⭐~~ <a href="https://github.com/Trantur/Portfolio"><strong>Check out my portfolio here!</strong></a> ~~⭐ </p>
+<p align="center"> ⭐~~ <a href="https://github.com/Rubenjme/Portfolio"><strong>Check out my portfolio here!</strong></a> ~~⭐ </p>
 
 
 👨‍💻 Technical Skills:
