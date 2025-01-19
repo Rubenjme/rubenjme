@@ -65,11 +65,33 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+## 💼 **Some of my projects**
+<!-- 1a tabla, 1a fila -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">💨Air quality predictions: Linear regression and Decision trees</h3>
+<div align="center">
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="400" alt="Curso intermedio Android"></a>
+  
+<p>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="47" height="47"/>  <!-- Scikit learn -->
+</p>
+</div>                                                                                      
+</td>       
+
+
+<td width="50%">
+<h3 align="center">Redes Neuronales clásicas</h3>
+<div align="center">
+<p>
+🚧 <b>Work in progress...</b> 🚧
+</p>
+
