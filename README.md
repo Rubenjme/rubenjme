@@ -72,7 +72,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 <td width="50%">
 <h3 align="center">💨Air quality predictions: Linear regression and Decision trees</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="445" alt="Curso intermedio Android"></a>
   
 <p>
 <a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank">
@@ -82,16 +82,33 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="47" height="47"/>  <!-- Scikit learn -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="47" height="47"/>  <!-- Scikit learn -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /> <!-- Numpy -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" /> <!-- Pandas -->
+                 
+          
 </p>
 </div>                                                                                      
 </td>       
 
 
 <td width="50%">
-<h3 align="center">Redes Neuronales clásicas</h3>
+<h3 align="center">1️⃣Digit classification with Neural networks with Keras</h3>
 <div align="center">
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://www.shutterstock.com/image-vector/deep-neural-network-dnn-diagram-600nw-2291330795.jpg" width="445" height = "295" alt="Curso intermedio Android"></a>
+
 <p>
-🚧 <b>Work in progress...</b> 🚧
+<a href="https://github.com/Rubenjme/Digit-classification" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-0b97d4?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" />   <!-- Keras -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" />  <!-- TensorFlow -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" />  <!-- Matplotlib -->
+</p>
+</div>                                                                                      
+</td> 
+<!-- 🚧 <b>Work in progress...</b> 🚧 -->
