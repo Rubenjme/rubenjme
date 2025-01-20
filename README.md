@@ -95,7 +95,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 <td width="50%">
 <h3 align="center">1️⃣Digit classification with Neural networks with Keras</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://www.shutterstock.com/image-vector/deep-neural-network-dnn-diagram-600nw-2291330795.jpg" width="445" height = "270" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://www.shutterstock.com/image-vector/deep-neural-network-dnn-diagram-600nw-2291330795.jpg" width="445" height = "265" alt="Curso intermedio Android"></a>
 
 <p>
 <a href="https://github.com/Rubenjme/Digit-classification" target="_blank">
