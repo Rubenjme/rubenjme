@@ -81,7 +81,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 </p>
 
 <p align="center">
-<img href="https://www.python.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python" /> <!-- Python -->
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="47" height="47" title="Scikit Learn" />  <!-- Scikit learn -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" title="Numpy" /> <!-- Numpy -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" title="Pandas" /> <!-- Pandas -->
@@ -104,7 +104,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 </p>
 
 <p align="center">
-<img href="https://www.python.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python" /> <!-- Python -->
+<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" title="Keras" />   <!-- Keras -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" title="TensorFlow" />  <!-- TensorFlow -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" title="Matplotlib" />  <!-- Matplotlib -->
