@@ -91,6 +91,32 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 
 
 <td width="50%">
+<h3 align="center">✈Processing and prediction of flight delays with HDFS, Spark, and Kafka</h3>
+<div align="center">
+<a href="https://github.com/Rubenjme/data_processing_hdfs_spark_mllib_kafka" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/024/637/674/small_2x/jet-plane-in-flight-generative-ai-photo.jpg" width="400" alt="HDFS, Spark and Kafka"></a>
+<p>
+<a href="https://github.com/Rubenjme/data_processing_hdfs_spark_mllib_kafka" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-b3e6f5?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p align="center">
+<a href="https://hadoop.apache.org" title="Hadoop"> <img src="https://i.imgur.com/83PZnwA.png" alt="Hadoop" width="50" height="50" /></a> <!-- Hadoop -->
+<a href="https://kafka.apache.org" title="Apache Kafka"> <img src="https://i.imgur.com/MFcdpIP.png" alt="Kafka" width="44" height="44" /></a> <!-- Kafka -->
+<a href="https://jupyter.org" title="Jupyter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" /></a> <!-- Jupyter -->
+<a href="https://www.cloud.google.com" title="Google Cloud"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" /></a> <!-- Google Cloud -->
+<a href="https://spark.apache.org" title="Apache Spark"> <img src="https://i.imgur.com/0qZULBd.png" alt="Apache Spark" width="55" height="33" /></a> <!-- Apache Spark -->
+</p>
+</div>                                                                                   
+</td>
+
+
+<!----------------------------------------------------------------------------------------------->
+<!------------------------------------------- 2a fila ------------------------------------------->
+<!----------------------------------------------------------------------------------------------->
+
+<tr>
+<td width="50%">
 <h3 align="center">1️⃣Digit classification with Neural networks with Keras</h3>
 <div align="center">
 <a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://www.shutterstock.com/image-vector/deep-neural-network-dnn-diagram-600nw-2291330795.jpg" width="445" height = "260" alt="Curso intermedio Android"></a>
@@ -109,18 +135,6 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 </p>
 </div>                                                                                      
 </td> 
-
-<!----------------------------------------------------------------------------------------------->
-<!-------------------------------------1a tabla, 2a fila (AI)------------------------------------>
-<!----------------------------------------------------------------------------------------------->
-
-<tr>
-<td width="50%">
-<h3 align="center">Análisis de muertes en el Titanic</h3>
-<div align="center">
-<p><strong>Proyecto en desarrollo...</strong></p>
-</div>
-</td>
   
 <td width="50%">
 <h3 align="center">🚧 <b>Work in progress...</b> 🚧 </h3>
