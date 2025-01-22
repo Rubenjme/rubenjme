@@ -72,7 +72,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 <td width="50%">
 <h3 align="center">💨Air quality predictions: Linear regression and Decision trees</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="445" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="430" alt="Curso intermedio Android"></a>
   
 <p>
 <a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank">
