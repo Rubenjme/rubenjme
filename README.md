@@ -109,4 +109,23 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 </p>
 </div>                                                                                      
 </td> 
+
+<!----------------------------------------------------------------------------------------------->
+<!-------------------------------------1a tabla, 2a fila (AI)------------------------------------>
+<!----------------------------------------------------------------------------------------------->
+
+<tr>
+<td width="50%">
+<h3 align="center">Análisis de muertes en el Titanic</h3>
+<div align="center">
+<p><strong>Proyecto en desarrollo...</strong></p>
+</div>
+</td>
+  
+<td width="50%">
+<h3 align="center">🚧 <b>Work in progress...</b> 🚧 </h3>
+</td>
+</tr>
+</table>
+
 <!-- 🚧 <b>Work in progress...</b> 🚧 -->
