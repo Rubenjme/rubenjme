@@ -4,7 +4,7 @@
 Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's degree in Artificial Intelligence and a background in Telecommunications Engineering. I'm currently seeking new opportunities in the fields of data science, data engineering, and artificial intelligence.
 
 #
-<p align="center"> ⭐~~ <a href="https://github.com/Rubenjme/Portfolio"><strong>Check out my portfolio here!</strong></a> ~~⭐ </p>
+<p align="center"> ⭐~~ <a href="https://github.com/Rubenjme/Portfolio"><strong>Check out my PORTFOLIO here!</strong></a> ~~⭐ </p>
 
 
 👨‍💻 Technical Skills:
@@ -103,9 +103,9 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="47" height="47" title="Scikit Learn" />  <!-- Scikit learn -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" title="Numpy" /> <!-- Numpy -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" title="Pandas" /> <!-- Pandas -->
+<a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn -->
+<a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
+<a href="https://pandas.pydata.org" title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="41" height="41" /></a> <!-- Pandas -->
 </p>
 </div>                                                                                      
 </td>
@@ -126,8 +126,8 @@ Hi there! 👋 I'm Rubén, a Data Engineer and Data Scientist with a Master's de
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" /></a> <!-- Keras -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" title="TensorFlow" />  <!-- TensorFlow -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" title="Matplotlib" />  <!-- Matplotlib -->
+<a href="https://www.tensorflow.org" title="TensorFlow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" /></a> <!-- TensorFlow -->
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
 </p>
 </div>                                                                                      
 </td> 
