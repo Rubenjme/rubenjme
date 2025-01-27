@@ -7,16 +7,31 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 <p align="center"> ⭐~~ <a href="https://github.com/Rubenjme/Portfolio"><strong>Check out my PORTFOLIO here!</strong></a> ~~⭐ </p>
 
 
-👨‍💻 Technical Skills:
+## 👨‍💻 Technical Skills:
 
-- Data Engineering: ETL pipelines, data modeling (dimensional and relational), cloud platforms (Azure, AWS, GCP), and tools like Apache Spark, Kafka, and Airflow.
-- Data Science: Machine learning, deep learning, clustering, predictive analytics, and natural language processing (NLP).
-- Programming: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) and SQL.
-- Visualization: Power BI, Tableau, Matplotlib, Seaborn.
-  
-📝 My certifications:
+- **Data Engineering**: ETL pipelines, data modeling (dimensional and relational), cloud platforms (Azure, AWS, GCP), and tools like Apache Spark, Kafka, and Airflow.
+- **Data Science**: Machine learning, deep learning, clustering, predictive analytics, and natural language processing (NLP).
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) and SQL.
+- **Visualization**: Power BI, Tableau, Matplotlib, Seaborn.
+
+
+## 🎓 Education & Certifications
+
+### Master of Artificial Intelligence
+**UNIR**, 2024 - February 2025
+
+### Advanced University Course in Data Engineering
+**UNIR**, January 2025
+
+### Bachelor's Degree in Telecommunications Engineering
+**University of Seville**, 2023
+
+
+
+### 📝 Certifications
   - [*Microsoft Certified: Azure Fundamentals*](https://www.credly.com/badges/a2ff3ef4-5dff-4eea-a792-91f2742db6ba/public_url)
   - [*Excel for Business Professional Course*](https://www.udemy.com/certificate/UC-5a44833b-e23e-4e4e-9a65-a99c858e2717/)
+
 
 
 📊 My Interests:
@@ -29,12 +44,13 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 
 🚀 Current Projects:
 
-- Building a predictive model for machine failures using real-time sensor data.
-- Designing a personal YouTube channel to explain mysteries and strange stories using animations.
+- Designing a YouTube channel to explain mysteries and strange stories using animations.
 - Experimenting with interactive game development for iOS.
 
-📫 How to reach me --> **[LinkedIn](https://www.linkedin.com/in/rubenjme/)**
- 
+## 📫 How to reach me
+
+- **[LinkedIn](https://www.linkedin.com/in/rubenjme/)**
+
 
 ## 💼 **Some of my projects**
 <!-- 1a tabla, 1a fila -->
