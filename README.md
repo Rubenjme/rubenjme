@@ -44,7 +44,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 
 🚀 Current Projects:
 
-- Designing a YouTube channel to explain mysteries and strange stories using animations.
+- Designing a YouTube channel to explain strange stories using animations.
 - Experimenting with interactive game development for iOS.
 
 ## 📫 How to reach me
