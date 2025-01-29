@@ -17,20 +17,21 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 
 ## 🎓 Education & Certifications
 
-### Master of Artificial Intelligence
+### [Master of Artificial Intelligence](https://www.unir.net/ingenieria/master-inteligencia-artificial/)
+
 **UNIR**, 2024 - February 2025
 
-### Advanced University Course in Data Engineering
+### [Advanced University Course in Data Engineering](https://static.unir.net/ingenieria/curso-ia-data-engineering/C_dataEngineering-ia.pdf)
 **UNIR**, January 2025
 
-### Bachelor's Degree in Telecommunications Engineering
+### [Bachelor's Degree in Telecommunications Engineering](https://etsi.us.es/estudios-y-titulaciones/grados/grado-en-ingenieria-de-las-tecnologias-de-telecomunicacion)
 **University of Seville**, 2023
 
 
 ### 📝 Certifications
   - [*Microsoft Certified: Azure Fundamentals*](https://www.credly.com/badges/a2ff3ef4-5dff-4eea-a792-91f2742db6ba/public_url)
   - [*Excel for Business Professional Course*](https://www.udemy.com/certificate/UC-5a44833b-e23e-4e4e-9a65-a99c858e2717/)
-  - *Project Management with Agile Methodologies and Lean Approaches - Telefónica Foundation*
+  - *Project Management with Agile Methodologies and Lean Approaches - Telefonica Foundation*
 
 
 ## 📫 How to reach me
