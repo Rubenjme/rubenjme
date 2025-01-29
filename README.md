@@ -27,25 +27,11 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 **University of Seville**, 2023
 
 
-
 ### 📝 Certifications
   - [*Microsoft Certified: Azure Fundamentals*](https://www.credly.com/badges/a2ff3ef4-5dff-4eea-a792-91f2742db6ba/public_url)
   - [*Excel for Business Professional Course*](https://www.udemy.com/certificate/UC-5a44833b-e23e-4e4e-9a65-a99c858e2717/)
-  - Gestión de Proyectos con Metodologías Ágiles y Enfoques Lean - Fundación Telefónica
+  - *Project Management with Agile Methodologies and Lean Approaches - Telefónica Foundation*
 
-
-📊 My Interests:
-
-- Implementing end-to-end pipelines for large-scale data processing.
-  
-- Exploring unsupervised learning techniques for clustering and dimensionality reduction.
-  
-- Developing AI models to predict and optimize energy consumption patterns (e.g., my work on clustering energy data for photovoltaic installations).
-
-🚀 Current Projects:
-
-- Designing a YouTube channel to explain strange stories using animations.
-- Experimenting with interactive game development for iOS.
 
 ## 📫 How to reach me
 
