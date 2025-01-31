@@ -34,11 +34,6 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
   - *Project Management with Agile Methodologies and Lean Approaches - Telefonica Foundation*
 
 
-## 📫 How to reach me
-
-- **[LinkedIn](https://www.linkedin.com/in/rubenjme/)**
-
-
 ## 💼 **Some of my projects**
 <!-- 1a tabla, 1a fila -->
 <table>
