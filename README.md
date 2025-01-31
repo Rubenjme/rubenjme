@@ -22,7 +22,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 **UNIR**, 2024 - February 2025
 
 ### [Advanced University Course in Data Engineering](https://static.unir.net/ingenieria/curso-ia-data-engineering/C_dataEngineering-ia.pdf)
-**UNIR**, January 2025
+**UNIR**, 2024 - January 2025
 
 ### [Bachelor's Degree in Telecommunications Engineering](https://etsi.us.es/estudios-y-titulaciones/grados/grado-en-ingenieria-de-las-tecnologias-de-telecomunicacion)
 **University of Seville**, 2023
