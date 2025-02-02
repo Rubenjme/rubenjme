@@ -29,6 +29,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 
 
 ### 📝 Certifications
+  - *AWS Certified Cloud Practitioner* - *In Progress* 
   - [*Microsoft Certified: Azure Fundamentals*](https://www.credly.com/badges/a2ff3ef4-5dff-4eea-a792-91f2742db6ba/public_url)
   - [*Excel for Business Professional Course*](https://www.udemy.com/certificate/UC-5a44833b-e23e-4e4e-9a65-a99c858e2717/)
   - *Project Management with Agile Methodologies and Lean Approaches - Telefonica Foundation*
