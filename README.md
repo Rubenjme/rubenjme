@@ -110,24 +110,27 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 </td>
 
 
-
 <td width="50%">
-<h3 align="center">1️⃣Digit classification with Neural networks with Keras</h3>
+<h3 align="center">🖼️Convolutional Neural Networks for image classification</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://us.123rf.com/450wm/pitsvector/pitsvector1610/pitsvector161000057/67579683-resumen-de-fondo-n%C3%BAmeros-digitales.jpg" width="445" height = "260" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Rubenjme/Image_Classification_CNN" target="_blank"><img src="https://img.freepik.com/fotos-premium/hombre-mirando-pintura-palabra-tierra-ella_662214-533509.jpg" width="440" height = "235" alt="Convolutional Neural Networks for image classification"></a>
 
 <p>
-<a href="https://github.com/Rubenjme/Digit-classification" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-1e4fa8?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Rubenjme/Image_Classification_CNN" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-8c604a?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-
+      
 <p align="center">
-<a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
+<a href="https://colab.research.google.com" title="Google Colab"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png" alt="Colab" width="40" height="40" /></a> <!-- Colab -->
 <a href="https://keras.io" title="Keras"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="37" height="37" /></a> <!-- Keras -->
 <a href="https://www.tensorflow.org" title="TensorFlow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="37" height="37" /></a> <!-- TensorFlow -->
+<a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn -->
 <a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
+<a href="https://seaborn.pydata.org" title="Seaborn"> <img src="https://i.imgur.com/cASQ9q1.png" alt="Seaborn" width="40" height="40" /></a> <!-- Seaborn -->
 </p>
+
+
 </div>                                                                                      
 </td> 
 
