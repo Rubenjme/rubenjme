@@ -29,7 +29,7 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 
 
 ### 📝 Certifications
-  - *AI-900: Microsoft Azure AI Fundamentals* - *In Progress* 
+  - *AI-102: Microsoft Azure AI Engineer Associate* - *In Progress* 
   - [*Microsoft Certified: Azure Fundamentals*](https://www.credly.com/badges/a2ff3ef4-5dff-4eea-a792-91f2742db6ba/public_url)
   - [*Excel for Business Professional Course*](https://www.udemy.com/certificate/UC-5a44833b-e23e-4e4e-9a65-a99c858e2717/)
   - *Project Management with Agile Methodologies and Lean Approaches - Telefonica Foundation*
@@ -90,23 +90,28 @@ Hi there! 👋 I'm Rubén, a Data Engineer/Data Scientist with a Master's degree
 <tr>
 
 <td width="50%">
-<h3 align="center">💨Air quality predictions: Linear regression and Decision trees</h3>
+<h3 align="center">📦Comparison of K-Means, Hierarchical Clustering, and DBSCAN in data segmentation</h3>
 <div align="center">
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank"><img src="https://img.freepik.com/fotos-premium/calidad-aire-disminuye-debido-actividades-industriales-que-empeoran-niveles-contaminacion_795881-12126.jpg" width="430" alt="Curso intermedio Android"></a>
-  
+<a href="https://github.com/Rubenjme/Unsupervised_Learning_Clusters" target="_blank"><img src="https://www.shutterstock.com/image-photo/big-data-analysis-ai-technology-600nw-2300417929.jpg" width="440" height = "235" alt="Clustering"></a>
+
 <p>
-<a href="https://github.com/Rubenjme/air-quality-predictions-rf-lr" target="_blank">
-<img src="https://img.shields.io/badge/Go to the project-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Rubenjme/Unsupervised_Learning_Clusters" target="_blank">
+<img src="https://img.shields.io/badge/Go to the project-308dd9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
+    
 <p align="center">
 <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> <!-- Python -->
 <a href="https://scikit-learn.org" title="Scikit Learn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit learn" width="47" height="47" /></a> <!-- Scikit learn -->
 <a href="https://numpy.org" title="Numpy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" /></a> <!-- Numpy -->
 <a href="https://pandas.pydata.org" title="Pandas"> <img src="https://i.imgur.com/SR9zwnD.png" alt="Pandas" width="48" height="41" /></a> <!-- Pandas -->
+<a href="https://scipy.org" title="SciPy"> <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" alt="SciPy" width="40" height="40" /></a> <!-- SciPy-->
+<a href="https://matplotlib.org" title="Matplotlib"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="37" height="37" /></a> <!-- Matplotlib -->
+<a href="https://seaborn.pydata.org" title="Seaborn"> <img src="https://i.imgur.com/cASQ9q1.png" alt="Seaborn" width="40" height="40" /></a> <!-- Seaborn -->
 </p>
-</div>                                                                                      
+
+</div>
 </td>
 
 
